@@ -1,5 +1,5 @@
 # Northwind Website
-* This project;s current state is: **Unfinished**.
+* This project's current state is: **Unfinished**.
 Full Stack product website.
 
 
