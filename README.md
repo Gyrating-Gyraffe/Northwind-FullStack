@@ -1,6 +1,6 @@
 # Northwind Website
-
-Full Stack product website. Live version coming soon.
+* This project;s current state is: **Unfinished**.
+Full Stack product website.
 
 
 ## Technology Stack
